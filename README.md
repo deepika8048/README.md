@@ -12,14 +12,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepika-patel-84132a1bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:deepikap020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/deepika8048">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🙋‍♀️ About Me
 
-I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering patterns in data and building intelligent systems that solve real-world problems.
+I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering patterns in data and building intelligent systems that solve real-world problems — from training deep learning models to designing dashboards that turn raw numbers into decisions.
 
 - 🎓 **Post Graduate Certified** in Data Analysis & Data Science with **Generative AI** (Imarticus Learning)
-- 💼 **Internship Experience** at **CodeSoft** (Python) | **CITD** (Data Analysis) | **Oasis Infobyte** (Java) | **Bharath Intern** (Web Development)
+- 💼 **Internship Experience** — Python @ CodeSoft · Data Analysis @ CITD · Java @ Oasis Infobyte · Web Development @ Bharath Intern
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP & Generative AI**
 - 📊 Love crafting visual stories from raw data using **Power BI, Tableau & Excel**
 - 🐍 Python is my playground — from EDA to model deployment
@@ -62,15 +76,11 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend & Web
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ### 🐍 Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -78,10 +88,7 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
----
-
 ### 📊 Data Science & Machine Learning
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -91,26 +98,17 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 ### 📈 Data Visualization & BI
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
 ### 🗄️ Databases
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ### 🧰 Tools & Environment
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -120,17 +118,19 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| # | Project | Tech Stack | Status |
-|---|---------|------------|--------|
-| 01 | 🩸 **Blood Group Prediction (CNN)** | CNN · TensorFlow · Keras · OpenCV · Python · Jupyter | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
-| 02 | 📊 **Sales Dashboard (Power BI)** | Power BI · Excel · DAX · Data Cleaning · Data Visualization | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
-| 03 | 🏦 **Loan Default Prediction** | Python · Scikit-learn · Pandas · NumPy · Logistic Regression · Decision Tree · EDA | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
-| 04 | 💬 **Sentiment Analysis** | Python · NLP · NLTK · TF-IDF · Logistic Regression · Pandas · Jupyter | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
-| 05 | 🏠 **House Price Prediction** | Python · Scikit-learn · Linear Regression · Pandas · NumPy · Matplotlib · EDA | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
-| 06 | 👥 **HR Analysis (Power BI)** | Power BI · Excel · DAX · Data Visualization · KPI Metrics | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
-| 07 | 🍽️ **Zomato Restaurant Analysis** | Python · Pandas · NumPy · EDA · Matplotlib · Seaborn · Power BI | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| # | Project | Tech Stack | Link |
+|---|---------|------------|------|
+| 01 | 🩸 **Blood Group Prediction Using Fingerprint Images (VGG16)** | CNN · TensorFlow · Keras · OpenCV · Transfer Learning | [🔗 Repo](https://github.com/deepika8048/Blood-Group-Prediction-Using-Fingerprint-Images) |
+| 02 | 📊 **Business Sales & Customer Insights Dashboard** | Power BI · Excel · DAX · Power Query | [🔗 Repo](https://github.com/deepika8048/Business-Sales-Customer-Insights-Dashboard) |
+| 03 | 🛒 **E-Commerce Customer Segmentation (RFM Analysis)** | Power BI · RFM Segmentation · DAX | [🔗 Repo](https://github.com/deepika8048/E-Commerce-Customer-Segmentation) |
+| 04 | 🏦 **Loan Prediction — End-to-End ML App (Live)** | Python · Scikit-learn · Logistic Regression · PyScript | [🔗 Live Demo](https://lakshmankishore.github.io/loanPrediction) |
+| 05 | 💬 **Sentiment Analysis** | Python · NLP · NLTK · TF-IDF · Logistic Regression | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 06 | 👥 **HR Analytics Dashboard** | Power BI · Excel · DAX · KPI Metrics | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+| 07 | 🍽️ **Zomato Restaurant Analysis** | Python · Pandas · EDA · Power BI | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
+
+> 📌 Update the repo links above to match your actual GitHub repository URLs/usernames once each project is uploaded.
 
 ---
 
@@ -168,6 +168,10 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 <p align="center">
   <a href="https://www.linkedin.com/in/deepika-patel-84132a1bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:deepikap020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/deepika8048">
