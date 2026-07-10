@@ -33,7 +33,7 @@
 I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering patterns in data and building intelligent systems that solve real-world problems — from training deep learning models to designing dashboards that turn raw numbers into decisions.
 
 - 🎓 **Post Graduate Certified** in Data Analysis & Data Science with **Generative AI** (Imarticus Learning)
-- 💼 **Internship Experience** — Python @ CodeSoft · Data Analysis @ CITD · Java @ Oasis Infobyte · Web Development @ Bharath Intern
+- 💼 **Internship Experience** — Data Analysis @ CITD
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP & Generative AI**
 - 📊 Love crafting visual stories from raw data using **Power BI, Tableau & Excel**
 - 🐍 Python is my playground — from EDA to model deployment
@@ -55,19 +55,7 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
   </tr>
   <tr>
     <td align="center">💼</td>
-    <td><b>Internship</b> — Python Developer @ <b>CodeSoft</b></td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
     <td><b>Internship</b> — Data Analysis @ <b>CITD</b></td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td><b>Internship</b> — Java Developer @ <b>Oasis Infobyte</b></td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td><b>Internship</b> — Web Development @ <b>Bharath Intern</b></td>
   </tr>
 </table>
 
@@ -83,9 +71,6 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
