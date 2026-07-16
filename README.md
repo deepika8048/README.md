@@ -108,7 +108,7 @@ I'm an **aspiring Data Scientist & Data Analyst** passionate about uncovering pa
 | # | Project | Tech Stack | Link |
 |---|---------|------------|------|
 | 01 | 🩸 **Blood Group Prediction Using Fingerprint Images (VGG16)** | CNN · TensorFlow · Keras · OpenCV · Transfer Learning | [🔗 Repo](https://github.com/deepika8048/Blood-Group-Prediction-Using-Fingerprint-Images) |
-| 02 | 📊 **Business Sales & Customer Insights Dashboard** | Power BI · Excel · DAX · Power Query | [🔗 Repo](https://github.com/deepika8048/Business-Sales-Customer-Insights-Dashboard) |
+| 02 | 📊 **Business Sales & Customer Insights Dashboard** | Power BI · Excel · DAX · Power Query | [🔗 Repo](https://github.com/deepika8048/Business-Sales-and-Customer-Insights-Dashboard-using-Power-BI) |
 | 03 | 🛒 **E-Commerce Customer Segmentation (RFM Analysis)** | Power BI · RFM Segmentation · DAX | [🔗 Repo](https://github.com/deepika8048/E-Commerce-Customer-Segmentation) |
 | 04 | 🏦 **Loan Prediction — End-to-End ML App (Live)** | Python · Scikit-learn · Logistic Regression · PyScript | [🔗 Live Demo](https://lakshmankishore.github.io/loanPrediction) |
 | 05 | 💬 **Sentiment Analysis** | Python · NLP · NLTK · TF-IDF · Logistic Regression | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-orange?style=flat) |
